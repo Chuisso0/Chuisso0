@@ -54,8 +54,4 @@
 
 ### 📊 GitHub Stats
 
----
-
-### 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Chuisso0)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chuisso0)](https://git.io/streak-stats)
