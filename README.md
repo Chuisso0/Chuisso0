@@ -59,6 +59,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chuissoo0&show_icons=true&theme=tokyonight&count_private=true" alt="Guilherme's GitHub Stats" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chuissoo0&layout=compact&theme=tokyonight" alt="Top Languages" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chuissoo0&theme=tokyonight" alt="GitHub Streak" />
 </p>
