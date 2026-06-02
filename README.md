@@ -21,7 +21,7 @@
 
 - 🦿 Cursando o 4º período de Análise e Desenvolvimento de Sistemas.
 - 👯 I’m looking to collaborate on **Data Science, LLMs, and Cloud-native projects**.
-- 🌱 I’m currently learning **Large Language Models (LLMs), Prompt Engineering, and Cloud Architecture**.
+- 🌱 I’m currently learning **Data Analysis with Python**.
 
 ---
 
