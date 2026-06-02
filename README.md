@@ -58,6 +58,4 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chuissoo0&theme=tokyonight" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Chuisso0)](https://git.io/streak-stats)
