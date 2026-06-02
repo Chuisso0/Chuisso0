@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi 👋, I'm Guilherme Chuisso</h1>
-  <h3>A passionate Data Science & Artificial Intelligence enthusiast and Systems Development student</h3>
+  <h1>Olá 👋, eu sou o Guilherme Chuisso</h1>
+  <h3>Análise de Sistemas & Análise de Dados</h3>
 
   <p align="center">
     <a href="https://linkedin.com/in/guilherme-chuisso-21b555203" target="blank">
@@ -17,18 +17,18 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 Sobre Mim
 
 - 🦿 Cursando o 4º período de Análise e Desenvolvimento de Sistemas.
-- 👯 I’m looking to collaborate on **Data Science, LLMs, and Cloud-native projects**.
-- 🌱 I’m currently learning **Data Analysis with Python**.
+- 👯 Tenho interesse em colaborar em **projetos de Ciência e Análise de Dados**.
+- 🌱 Atualmente estudando **Análise de Dados com Python** e **Desenvolvimento Mobile**.
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Linguagens e Ferramentas
 
 <p align="left">
-  <!-- Core Languages -->
+  <!-- Linguagens Principais -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -36,7 +36,7 @@
   
   <br/>
   
-  <!-- Data Science & Frameworks -->
+  <!-- Ciência de Dados & Nuvem -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
@@ -44,11 +44,10 @@
   
   <br/>
   
-  <!-- Tools & Versioning -->
+  <!-- Ferramentas & Versionamento -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
 ---
-
