@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá 👋, eu sou o Guilherme Chuisso</h1>
-  <h3>Análise de Sistemas & Análise de Dados</h3>
+  <h3>Análise de Sistemas | Análise de Dados | Cibersegurança</h3>
 
   <p align="center">
     <a href="https://linkedin.com/in/guilherme-chuisso-21b555203" target="blank">
@@ -20,8 +20,8 @@
 ### 🚀 Sobre Mim
 
 - 🦿 Cursando o 4º período de Análise e Desenvolvimento de Sistemas.
-- 👯 Tenho interesse em colaborar em **projetos de Ciência e Análise de Dados**.
-- 🌱 Atualmente estudando **Análise de Dados com Python** e **Desenvolvimento Mobile**.
+- 👯 Tenho interesse em colaborar em **projetos de Ciência de Dados e Segurança da Informação**.
+- 🌱 Atualmente estudando **Cibersegurança**, **Redes de Computadores** e **Análise de Dados com Python**.
 
 ---
 
@@ -36,11 +36,13 @@
   
   <br/>
   
-  <!-- Ciência de Dados & Nuvem -->
+  <!-- Ciência de Dados, Nuvem & Segurança -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
   
   <br/>
   
