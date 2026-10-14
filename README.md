@@ -21,7 +21,7 @@
 
 - 🦿 Cursando o 4º período de Análise e Desenvolvimento de Sistemas.
 - 👯 Tenho interesse em colaborar em **projetos de Análise de Dados e Segurança da Informação**.
-- 🌱 Atualmente estudando **Cibersegurança**, **Redes de Computadores** e **Análise de Dados com Python**.
+- 🌱 Atualmente estudando **Cibersegurança** e **Redes de Computadores**.
 
 ---
 
