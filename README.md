@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá 👋, eu sou o Guilherme Chuisso</h1>
-  <h3>Análise de Sistemas | Análise de Dados | Cibersegurança</h3>
+  <h3>Análise de Sistemas</h3>
 
   <p align="center">
     <a href="https://linkedin.com/in/guilherme-chuisso-21b555203" target="blank">
